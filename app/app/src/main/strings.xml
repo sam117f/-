@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Darbi - دربي</string>
+    <string name="welcome_text">مرحباً بك في تطبيق دربي\nWelcome to Darbi</string>
+    <string name="email_hint">البريد الإلكتروني / Email</string>
+    <string name="password_hint">كلمة المرور / Password</string>
+    <string name="login_button">تسجيل الدخول / Login</string>
+    <string name="register_button">إنشاء حساب جديد / Register</string>
+</resources>
